@@ -1,0 +1,14 @@
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\bin\Debug\net7.0\Lista1.exe
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\bin\Debug\net7.0\Lista1.deps.json
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\bin\Debug\net7.0\Lista1.runtimeconfig.json
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\bin\Debug\net7.0\Lista1.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\bin\Debug\net7.0\Lista1.pdb
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.GeneratedMSBuildEditorConfig.editorconfig
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.AssemblyInfoInputs.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.AssemblyInfo.cs
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.csproj.CoreCompileInputs.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\refint\Lista1.dll
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.pdb
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\Lista1.genruntimeconfig.cache
+D:\mef\IF\Linguagem I\Semana 1 - Vetor - Funcoes\Lista 1 - Vetores\Lista1\obj\Debug\net7.0\ref\Lista1.dll
