@@ -5,7 +5,13 @@ class Exercicio2
 {
     static int contadorImpar(int[] vetor)
     {
-        
+        int contador = 0;
+        for (int i = 0; i < vetor.Length; i++)
+        {
+            if (vetor[i] % 2 != 0)
+                contador++;
+        }// fim for        
+        return contador;
     }
     static void Main()
     {
@@ -15,7 +21,9 @@ class Exercicio2
         int[] vetor = new int[n];
         Biblioteca.gerarVetor(vetor);
         Biblioteca.mostrarVetor(vetor);
-
+        int qtdImpar = contadorImpar(vetor); // chamando a funcao
+        Console.WriteLine("Quantidade de impares:" + qtdImpar);
+        Console.ReadKey();
     }
 
 }

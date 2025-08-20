@@ -27,7 +27,7 @@ namespace MinhaBiblioteca
             Console.WriteLine("Dados do Vetor:");
             for (int i = 0; i < vetor.Length; i++)
                 Console.Write("|" + vetor[i]);
-
+            Console.WriteLine();
         }
 
         
